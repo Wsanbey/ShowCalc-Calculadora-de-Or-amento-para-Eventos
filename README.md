@@ -1,4 +1,8 @@
-# ShowCalc: Calculadora de Orçamento para Eventos
+# ShowCalc: Calculadora de Orçamento para Eventos 
+
+<img src="https://github.com/Wsanbey/ShowCalc-Calculadora-de-Or-amento-para-Eventos/assets/61056410/efbcbfae-e498-4a06-92a7-28b3eab77702" width="200" height="200">  https://bit.ly/Calculadora_de_eventos
+
+
 
 ## Descrição
 
